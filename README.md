@@ -1,0 +1,3 @@
+# Skrypty miesiąca...
+
+Moje projekty , które będą startowały na SKM.
